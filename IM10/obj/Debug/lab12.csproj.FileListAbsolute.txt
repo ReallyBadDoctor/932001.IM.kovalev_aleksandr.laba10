@@ -1,0 +1,31 @@
+C:\Users\nikita\source\repos\lab12\lab12\bin\Debug\lab12.exe.config
+C:\Users\nikita\source\repos\lab12\lab12\bin\Debug\lab12.exe
+C:\Users\nikita\source\repos\lab12\lab12\bin\Debug\lab12.pdb
+C:\Users\nikita\source\repos\lab12\lab12\obj\Debug\lab12.csprojAssemblyReference.cache
+C:\Users\nikita\source\repos\lab12\lab12\obj\Debug\lab12.Form1.resources
+C:\Users\nikita\source\repos\lab12\lab12\obj\Debug\lab12.Properties.Resources.resources
+C:\Users\nikita\source\repos\lab12\lab12\obj\Debug\lab12.csproj.GenerateResource.cache
+C:\Users\nikita\source\repos\lab12\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+C:\Users\nikita\source\repos\lab12\lab12\obj\Debug\lab12.exe
+C:\Users\nikita\source\repos\lab12\lab12\obj\Debug\lab12.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\lab12\lab12\lab12\bin\Debug\lab12.exe.config
+C:\Users\olegr\OneDrive\Рабочий стол\lab12\lab12\lab12\bin\Debug\lab12.exe
+C:\Users\olegr\OneDrive\Рабочий стол\lab12\lab12\lab12\bin\Debug\lab12.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\lab12\lab12\lab12\obj\Debug\lab12.csprojAssemblyReference.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab12\lab12\lab12\obj\Debug\lab12.Form1.resources
+C:\Users\olegr\OneDrive\Рабочий стол\lab12\lab12\lab12\obj\Debug\lab12.Properties.Resources.resources
+C:\Users\olegr\OneDrive\Рабочий стол\lab12\lab12\lab12\obj\Debug\lab12.csproj.GenerateResource.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab12\lab12\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab12\lab12\lab12\obj\Debug\lab12.exe
+C:\Users\olegr\OneDrive\Рабочий стол\lab12\lab12\lab12\obj\Debug\lab12.pdb
+C:\Users\zadir\Desktop\Lab12\lab12\bin\Debug\lab12.exe.config
+C:\Users\zadir\Desktop\Lab12\lab12\bin\Debug\lab12.exe
+C:\Users\zadir\Desktop\Lab12\lab12\bin\Debug\lab12.pdb
+C:\Users\zadir\Desktop\Lab12\lab12\obj\Debug\lab12.csproj.AssemblyReference.cache
+C:\Users\zadir\Desktop\Lab12\lab12\obj\Debug\lab12.csproj.SuggestedBindingRedirects.cache
+C:\Users\zadir\Desktop\Lab12\lab12\obj\Debug\lab12.Form1.resources
+C:\Users\zadir\Desktop\Lab12\lab12\obj\Debug\lab12.Properties.Resources.resources
+C:\Users\zadir\Desktop\Lab12\lab12\obj\Debug\lab12.csproj.GenerateResource.cache
+C:\Users\zadir\Desktop\Lab12\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+C:\Users\zadir\Desktop\Lab12\lab12\obj\Debug\lab12.exe
+C:\Users\zadir\Desktop\Lab12\lab12\obj\Debug\lab12.pdb
